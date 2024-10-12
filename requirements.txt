@@ -1,0 +1,9 @@
+pip
+setuptools
+streamlit
+opencv-python-headless
+mediapipe
+numpy
+joblib
+scikit-learn
+streamlit-webrtc
